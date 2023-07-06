@@ -61,31 +61,31 @@
   },
   {
     "role": "user",
-    "resource": "User",
+    "resource": "Vika",
     "action": "create:any",
     "attributes": "*"
   },
   {
     "role": "user",
-    "resource": "User",
+    "resource": "Vika",
     "action": "update:any",
     "attributes": "*"
   },
   {
     "role": "user",
-    "resource": "User",
+    "resource": "Vika",
     "action": "read:own",
     "attributes": "*"
   },
   {
     "role": "user",
-    "resource": "User",
+    "resource": "Vika",
     "action": "delete:any",
     "attributes": "*"
   },
   {
     "role": "user",
-    "resource": "User",
+    "resource": "Vika",
     "action": "read:any",
     "attributes": "*"
   }
